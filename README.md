@@ -20,8 +20,8 @@
 	
  ```
   [![trophy](https://github-profile-trophy.vercel.app/?username=oranyele&theme=onedark)](https://github.com/oranyele)
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=oranyele&count_private=true&show_icons=true])
+![Ranyele's github stats](https://github-readme-stats.vercel.app/api?username=oranyele&count_private=true&show_icons=true])
  
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=oranyele&layout=compact">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=oranyele&count_private=true&layout=compact">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oranyele" alt="oranyele" /> </p>
